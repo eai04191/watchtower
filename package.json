@@ -8,6 +8,7 @@
         "dotenv": "^8.2.0",
         "got": "^11.8.1",
         "masto": "^3.7.0",
+        "node-html-parser": "^2.1.0",
         "ts-node-dev": "^1.1.1",
         "typescript": "^4.1.3"
     },
